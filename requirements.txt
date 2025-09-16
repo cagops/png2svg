@@ -1,0 +1,7 @@
+vtracer>=0.6.0
+pixels2svg>=0.2.3
+svgwrite>=1.4.3
+Pillow>=10.0.0
+scikit-image>=0.21.0
+click>=8.1.0
+tqdm>=4.66.0
